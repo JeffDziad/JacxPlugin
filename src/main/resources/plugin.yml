@@ -1,0 +1,12 @@
+name: JacxPlugin
+description: Plugin that is used on all Minecraft Servers hosted by Jeff Dziadulewicz.
+author: JeffDziad
+main: com.JeffDziad.JacxPlugin
+version: 0.1
+api-version: 1.19
+
+commands:
+  map:
+    description: Sends url to web browser world map.
+    usage: /<command>
+
